@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../Android/Sdk/platforms/android-31/data/res/layout/simple_expandable_list_item_1.xml" value="0.3134057971014493" />
+        <entry key="../../Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.3509963768115942" />
+        <entry key="../../Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_single_choice.xml" value="0.3509963768115942" />
+        <entry key="P0061_Layouts/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0061_Layouts/src/main/res/layout/grlayout.xml" value="0.333786231884058" />
+        <entry key="P0061_Layouts/src/main/res/layout/marginlayout.xml" value="0.333786231884058" />
+        <entry key="P0061_Layouts/src/main/res/layout/tlayout.xml" value="0.333786231884058" />
+        <entry key="P0072_LayoutProp/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0081_ViewById/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="P0091_OnClickButtons/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0101_Listener/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0102_ActivityListener/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0111_ResValues/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="P0121_LogAndMess/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0131_MenuSimple/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0141_MenuAdv/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0141_MenuAdv/src/main/res/menu/mymenu.xml" value="0.3541666666666667" />
+        <entry key="P0151_ContextMenu/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0161_DynamicLayout/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0171_DynamicLayout2/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0181_DynamicLayout3/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0191_SimpleCalculator/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0201_SimpleAnimation/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0231_OneActivityState/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="P0241_TwoActivityState/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0241_TwoActivityState/src/main/res/layout/activity_two.xml" value="0.333786231884058" />
+        <entry key="P0261_IntentFilter/src/main/res/layout/activity_date.xml" value="0.3283514492753623" />
+        <entry key="P0261_IntentFilter/src/main/res/layout/activity_date_ex.xml" value="0.3283514492753623" />
+        <entry key="P0261_IntentFilter/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="P0261_IntentFilter/src/main/res/layout/activity_time.xml" value="0.333786231884058" />
+        <entry key="P0271_GetIntentAction/src/main/res/layout/activity_main.xml" value="0.3283514492753623" />
+        <entry key="P0271_GetIntentAction/src/main/res/layout/info.xml" value="0.3283514492753623" />
+        <entry key="P0281_IntentExtras/src/main/res/layout/activity_main.xml" value="0.3283514492753623" />
+        <entry key="P0281_IntentExtras/src/main/res/layout/activity_view.xml" value="0.3229166666666667" />
+        <entry key="P0291_SimpleActivityResult/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0291_SimpleActivityResult/src/main/res/layout/name.xml" value="0.3229166666666667" />
+        <entry key="P0301_ActivityResult/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0301_ActivityResult/src/main/res/layout/align.xml" value="0.3229166666666667" />
+        <entry key="P0301_ActivityResult/src/main/res/layout/color.xml" value="0.3229166666666667" />
+        <entry key="P0311_SimpleIntents/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0321_SimpleBrowser/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0321_SimpleBrowser/src/main/res/layout/browser.xml" value="0.3229166666666667" />
+        <entry key="P0331_SharedPreferences/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0341_SimpleSQLite/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0361_SQLiteQuery/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0371_SQLiteInnerJoin/src/main/res/layout/activity_main.xml" value="0.196875" />
+        <entry key="P0391_SQLiteOnUpgradeDB/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="P0401_LayoutInflater/src/main/res/layout/activity_main.xml" value="0.3541666666666667" />
+        <entry key="P0401_LayoutInflater/src/main/res/layout/text.xml" value="0.3541666666666667" />
+        <entry key="P0401_LayoutInflater/src/main/res/xml/text.xml" value="0.3541666666666667" />
+        <entry key="P0411_LayoutInflaterList/src/main/res/layout/activity_main.xml" value="0.3541666666666667" />
+        <entry key="P0411_LayoutInflaterList/src/main/res/layout/item.xml" value="0.3541666666666667" />
+        <entry key="P0421_SimpleList/src/main/res/layout/activity_main.xml" value="0.3509963768115942" />
+        <entry key="P0421_SimpleList/src/main/res/layout/my_list_item.xml" value="0.3509963768115942" />
+        <entry key="P0431_SimpleListChoice/src/main/res/layout/activity_main.xml" value="0.3509963768115942" />
+        <entry key="P0441_SimpleListEvents/src/main/res/layout/activity_main.xml" value="0.3509963768115942" />
+        <entry key="P0451_ExpandableList/src/main/res/layout/activity_main.xml" value="0.3509963768115942" />
+        <entry key="P0461_ExpandableListEvents/src/main/res/layout/activity_main.xml" value="0.3509963768115942" />
+        <entry key="P0481_SimpleAdapter/src/main/res/layout/activity_main.xml" value="0.34601449275362317" />
+        <entry key="P0481_SimpleAdapter/src/main/res/layout/item.xml" value="0.34601449275362317" />
+        <entry key="P0491_SimpleAdapterCustom1/src/main/res/layout/activity_main.xml" value="0.34103260869565216" />
+        <entry key="P0491_SimpleAdapterCustom1/src/main/res/layout/item.xml" value="0.34103260869565216" />
+        <entry key="P0501_SimpleAdapterCustom2/src/main/res/layout/activity_main.xml" value="0.34103260869565216" />
+        <entry key="P0501_SimpleAdapterCustom2/src/main/res/layout/item.xml" value="0.34103260869565216" />
+        <entry key="P0511_SimpleAdapterData/src/main/res/layout/activity_main.xml" value="0.34103260869565216" />
+        <entry key="P0511_SimpleAdapterData/src/main/res/layout/item.xml" value="0.34103260869565216" />
+        <entry key="P0521_SimpleCursorAdapter/src/main/res/layout/activity_main.xml" value="0.3134057971014493" />
+        <entry key="P0521_SimpleCursorAdapter/src/main/res/layout/item.xml" value="0.3134057971014493" />
+        <entry key="P0531_SimpleCursorTreeAdapter/src/main/res/layout/activity_main.xml" value="0.3134057971014493" />
+        <entry key="P0541_CustomAdapter/src/main/res/layout/activity_main.xml" value="0.3134057971014493" />
+        <entry key="P0541_CustomAdapter/src/main/res/layout/item.xml" value="0.3134057971014493" />
+        <entry key="P0551_HeaderFooter/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0551_HeaderFooter/src/main/res/layout/footer.xml" value="0.3079710144927536" />
+        <entry key="P0551_HeaderFooter/src/main/res/layout/header.xml" value="0.3079710144927536" />
+        <entry key="P0552_DateTime_Picker/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0561_Spinner/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0571_GridView/src/main/res/drawable/rect.xml" value="0.3703125" />
+        <entry key="P0571_GridView/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0571_GridView/src/main/res/layout/item.xml" value="0.3079710144927536" />
+        <entry key="P0581_TimePickerDialog/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0591_DatePickerDialog/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0601_AlertDialogSimple/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0611_AlertDialogPrepare/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0621_AlertDialogItems/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0631_AlertDialogItemsSingle/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0641_AlertDialogItemsMulti/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="P0651_AlertDialogCustom/src/main/res/layout/activity_main.xml" value="0.302536231884058" />
+        <entry key="P0651_AlertDialogCustom/src/main/res/layout/dialog.xml" value="0.302536231884058" />
+        <entry key="P0661_AlertDialogOperations/src/main/res/layout/activity_main.xml" value="0.302536231884058" />
+        <entry key="P0671_ProgressDialog/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="P0681_Parcel/src/main/res/layout/activity_main.xml" value="0.33697916666666666" />
+        <entry key="P0701_SaveInstanceState/src/main/res/layout/activity_main.xml" value="0.3541666666666667" />
+        <entry key="P0701_SaveInstanceState/src/main/res/layout/activity_pref.xml" value="0.3541666666666667" />
+        <entry key="P0701_SaveInstanceState/src/main/res/xml/pref.xml" value="0.3541666666666667" />
+        <entry key="P0711_PreferencesSimple/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="P0711_PreferencesSimple/src/main/res/layout/activity_pref.xml" value="0.3541666666666667" />
+        <entry key="P0721_PreferencesSimple2/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="P0721_PreferencesSimple2/src/main/res/xml/pref.xml" value="0.3541666666666667" />
+        <entry key="P0731_PreferencesEnable/src/main/res/layout/activity_pref.xml" value="0.3541666666666667" />
+        <entry key="P0731_PreferencesEnable/src/main/res/xml/pref.xml" value="0.3541666666666667" />
+        <entry key="P0741_PreferencesCode/src/main/res/xml/pref.xml" value="0.3541666666666667" />
+        <entry key="P1361_CursorLoader/src/main/res/layout/activity_main.xml" value="0.3233695652173913" />
+        <entry key="P1361_CursorLoader/src/main/res/layout/item.xml" value="0.3233695652173913" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="basicviews/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="other01_HttpURLConnection/src/main/res/layout/activity_main.xml" value="0.302536231884058" />
+        <entry key="other02_Load_json_from_url-01/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="other02_Load_json_from_url-01/src/main/res/layout/row.xml" value="0.33" />
+        <entry key="other03_Screen_Elements/src/main/res/layout/activity_main.xml" value="0.3541666666666667" />
+        <entry key="other04_QR_and_BAR_Code_reading/src/main/res/layout/activity_main.xml" value="0.3233695652173913" />
+        <entry key="p0031firstProject/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="p0041basicviews/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="p0180constraintlayoutintro/src/main/res/layout-land/myscreen.xml" value="0.2998236331569665" />
+        <entry key="p0180constraintlayoutintro/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="p0180constraintlayoutintro/src/main/res/layout/myscreen.xml" value="0.333786231884058" />
+        <entry key="p0211twoactivity/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="p0211twoactivity/src/main/res/layout/activity_two.xml" value="0.333786231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.333786231884058" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

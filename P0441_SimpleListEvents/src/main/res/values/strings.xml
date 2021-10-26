@@ -1,0 +1,24 @@
+<resources>
+<!--    <string name="app_name">My Application</string>-->
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">SimpleListEvents</string>
+    <string-array name="names">
+        <item>Иван</item>
+        <item>Марья</item>
+        <item>Петр</item>
+        <item>Антон</item>
+        <item>Даша</item>
+        <item>Борис</item>
+        <item>Костя</item>
+        <item>Игорь</item>
+        <item>Анна</item>
+        <item>Денис</item>
+        <item>Вадим</item>
+        <item>Ольга</item>
+        <item>Сергей</item>
+        <item>Говнюк</item>
+        <item>Задрот</item>
+        <item>Чмошник</item>
+        <item>Гандон</item>
+    </string-array>
+</resources>
