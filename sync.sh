@@ -1,4 +1,4 @@
 #!/bin/bash
-myvar=$(date '+%d-%m-%Y_%H-%M-%S')
-git commit -a -m $myvar
+mydate=$(date '+%d-%m-%Y_%H-%M-%S')
+git commit -a -m $mydate
 git push -u Android-Lessons master
