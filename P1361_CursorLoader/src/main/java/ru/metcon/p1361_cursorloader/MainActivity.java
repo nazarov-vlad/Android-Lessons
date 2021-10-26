@@ -78,7 +78,6 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     protected void onDestroy() {
         super.onDestroy();
         // закрываем подключение при выходе
-        //Новый комментарий
         db.close();
     }
 
