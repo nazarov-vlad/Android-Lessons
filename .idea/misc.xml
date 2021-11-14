@@ -105,6 +105,9 @@
         <entry key="P0731_PreferencesEnable/src/main/res/xml/pref.xml" value="0.3541666666666667" />
         <entry key="P0741_PreferencesCode/src/main/res/xml/pref.xml" value="0.3541666666666667" />
         <entry key="P0751_Files/src/main/res/layout/activity_main.xml" value="0.18659420289855072" />
+        <entry key="P0761_Tab/src/main/res/drawable/tab_icon_selector.xml" value="0.28072916666666664" />
+        <entry key="P0761_Tab/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="P0761_Tab/src/main/res/layout/tab_header.xml" value="0.26458333333333334" />
         <entry key="P1361_CursorLoader/src/main/res/layout/activity_main.xml" value="0.3233695652173913" />
         <entry key="P1361_CursorLoader/src/main/res/layout/item.xml" value="0.3233695652173913" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3375" />
